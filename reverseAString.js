@@ -1,4 +1,5 @@
-
+// Input : 'helloworld'
+// Output : 'dlrowolleh'
 
 const reverseAString = (str) => {
     var arrayOfLetters = str.split('');
