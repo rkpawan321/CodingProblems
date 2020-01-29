@@ -1,3 +1,8 @@
+// Input : ["dontwanttotalktoyou", "donbosco", "dont", "donkey"];
+// Output : 'don'
+
+
+
 const listOfWords = ["dontwanttotalktoyou", "donbosco", "dont", "donkey"];
 
 const longestCommonPrefix = (listOfWords) => {
